@@ -1,0 +1,83 @@
+[
+    {
+        "id": "101",
+        "categorie_id": "01",
+        "title":"vip Light vehicle",
+        "des":"Register & start online theory training 2 weeks waiting to start practical training- Master your driving skills in Audi cars Combine 2  practical training sessions Priority in test dates Dedicated staff for your assistance ",
+        "price":"50000",
+        "thum":"https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": "107",
+        "categorie_id": "01",
+        "title":"vip Bus vehicle",
+        "des":"As you will be transporting passengers, it is essential to add to the skills you already have as a driver of car. Our Heavy Bus driving license course caters to students planning to qualify for a license to drive passenger buses. You will need to pass the Traffic department's driving test to get your license. While this course is similar to our other courses in terms of the technical aspects, the added emphasis is on passenger care and safety. Not only will you need to master driving a larger vehicle and dealing with pedestrians and other road users unaware of the challenges of driving a large bus, you will also be responsible for the safety and comfort of numerous passengers. In particular, you will need to ensure children are seated properly and that other safety measures like holding handrails are constantly observed. Moreover, a bus driver must always know what to do in case there is an emergency or how to handle other incidents like a fire or a traffic accident",
+        "price":"50000",
+        "thum":"https://images.unsplash.com/photo-1570125909232-eb263c188f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+        "id": "108",
+        "categorie_id": "01",
+        "title":" vip Motor Bike vehicle",
+        "des":"Straight line riding, turning. shifting and stopping Shift gears and stop smoothly.Advanced turning and braking techniques.Stopping Distance Demonstration.Collision avoidance manoeuvres.Multiple Curves & Lane Changes.Stopping in a Curve.Stopping More Quickly & Tight Turns from a Stop",
+        "price":"50000",
+        "thum":"https://images.unsplash.com/photo-1515777315835-281b94c9589f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG1vdG9yYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    
+    
+    {
+        "id": "102",
+        "categorie_id": "02",
+        "title":"Platinum Light vehicle",
+        "des":"Register & start online theory training 2 weeks waiting to start practical training- Master your driving skills in Audi cars Combine 2  practical training sessions Priority in test dates Dedicated staff for your assistance",
+        "price":"50000",
+        "thum":"https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": "109",
+        "categorie_id": "02",
+        "title":"Platinum Bus vehicle",
+        "des":"As you will be transporting passengers, it is essential to add to the skills you already have as a driver of car. Our Heavy Bus driving license course caters to students planning to qualify for a license to drive passenger buses. You will need to pass the Traffic department's driving test to get your license. While this course is similar to our other courses in terms of the technical aspects, the added emphasis is on passenger care and safety. Not only will you need to master driving a larger vehicle and dealing with pedestrians and other road users unaware of the challenges of driving a large bus, you will also be responsible for the safety and comfort of numerous passengers. In particular, you will need to ensure children are seated properly and that other safety measures like holding handrails are constantly observed. Moreover, a bus driver must always know what to do in case there is an emergency or how to handle other incidents like a fire or a traffic accident",
+        "price":"50000",
+        "thum":"https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    
+    {
+        "id": "103",
+        "categorie_id": "03",
+        "title":"Light Light vehicle",
+        "des":"Register & start online theory training 2 weeks waiting to start practical training- Master your driving skills in Audi cars Combine 2  practical training sessions Priority in test dates Dedicated staff for your assistance",
+        "price":"23000",
+        "thum":"https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80"
+    },
+    {
+        "id": "110",
+        "categorie_id": "03",
+        "title":"Havvy vehicle",
+        "des":"Heavy Vehicles driving course(Trailer, Medium-Trucks)",
+        "price":"20000",
+        "thum":"https://dohadrivingacademy.com/resources/assets/images/news_images/1568007277.rhys-moult-7eaFIKeo1MQ-unsplash.jpg"
+    },
+    
+    {
+        "id": "104",
+        "categorie_id": "04",
+        "title":"Bus",
+        "des":"As you will be transporting passengers, it is essential to add to the skills you already have as a driver of car. Our Heavy Bus driving license course caters to students planning to qualify for a license to drive passenger buses. You will need to pass the Traffic department's driving test to get your license.While this course is similar to our other courses in terms of the technical aspects, the added emphasis is on passenger care and safety. Not only will you need to master driving a larger vehicle and dealing with pedestrians and other road users unaware of the challenges of driving a large bus, you will also be responsible for the safety and comfort of numerous passengers. In particular, you will need to ensure children are seated properly and that other safety measures like holding handrails are constantly observed. Moreover, a bus driver must always know what to do in case there is an emergency or how to handle other incidents like a fire or a traffic accident",
+        "price":"50000",
+        "thum":"https://images.unsplash.com/photo-1570125909232-eb263c188f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+        "id": "105",
+        "categorie_id": "05",
+        "title":"Forklift",
+        "des":"Driving a forklift is extremely different from driving a car - they are machines that require special operational skills. At DDA, our Light Forklift Driving License course prepares you for the test and enables you to obtain a license to operate. Students who complete the course and pass the tests are licensed to drive light forklifts.",
+        "price":"50000",
+        "thum":"https://dohadrivingacademy.com/resources/assets/images/news_images/1568008802.elevate-GAdkOpqbTfo-unsplash.jpg"
+    }
+    
+    
+    
+    
+    
+]

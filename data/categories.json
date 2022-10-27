@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "VIP"
+    },
+    {
+        "id": "02",
+        "name": "PLATINUM"
+    },
+    {
+        "id": "03",
+        "name": "LIGHT"
+    },
+    {
+        "id": "04",
+        "name": "BUS"
+    },
+    {
+        "id": "05",
+        "name": "Forklift"
+    },
+    {
+        "id": "06",
+        "name": "ALL"
+    }
+]
