@@ -20,7 +20,7 @@ app.get('/categorie/:id', (req,res) => {
         res.send(cources)
     }
     else{
-        const category_course = cources.filter(c => c.categorie_id === id)
+        const category_course = cources.filter(c => c.categorie_id === id);
     res.send(category_course)
     }
     
