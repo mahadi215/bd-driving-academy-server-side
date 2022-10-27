@@ -37,4 +37,3 @@ app.get('/s-cources/:id', (req, res) => {
 app.listen(port, () =>{
     console.log(`server runing on ${port}`);
 });
-hell
